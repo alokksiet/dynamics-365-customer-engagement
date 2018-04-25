@@ -1,5 +1,5 @@
 ---
-title: "getMax (Client API reference)| MicrosoftDocs"
+title: "getMin (Client API reference)| MicrosoftDocs"
 ms.date: 10/31/2017
 ms.service: "crm-online"
 ms.topic: "reference"
@@ -9,7 +9,7 @@ author: "KumarVivek"
 ms.author: "kvivek"
 manager: "amyla"
 ---
-# getMax (Client API reference)
+# getMin (Client API reference)
 
 [!INCLUDE[](../../../../includes/cc_applies_to_update_9_0_0.md)]
 
